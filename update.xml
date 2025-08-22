@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update-information xmlns="http://openoffice.org/extensions/update/2006">
+  <identifier value="gr.sch.thess.dide-v.startup-settings"/>
+  <version value="1.0"/>
+  <update-download>
+    <src xlink:href="https://github.com/DSE-Western-Thessaloniki/lo_dsewt_settings/releases/v1.0/download/lo_dsewt_settings.oxt"/>
+  </update-download>
+</update-information>
