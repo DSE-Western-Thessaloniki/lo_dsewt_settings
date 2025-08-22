@@ -1,0 +1,2 @@
+This extension automatically sets all LibreOffice applications to use the notebookbar interface
+and prevents the tip dialog from appearing on startup.

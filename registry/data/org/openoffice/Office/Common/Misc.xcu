@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" 
+                    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+                    oor:name="Misc" 
+                    oor:package="org.openoffice.Office.Common">
+    
+    <!-- Disable Tip of the Day -->
+    <prop oor:name="ShowTipOfTheDay" oor:type="xs:boolean">
+        <value>false</value>
+    </prop>
+    
+</oor:component-data>

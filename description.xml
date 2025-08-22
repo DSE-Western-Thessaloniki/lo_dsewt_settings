@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+             xmlns:d = "http://openoffice.org/extensions/description/2006"
+             xmlns:l = "http://libreoffice.org/extensions/description/2011"
+             xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <identifier value="gr.sch.thess.dide-v.startup-settings"/>
+    
+    <version value="1.0"/>
+    
+    <display-name>
+        <name lang="en">Startup Settings</name>
+        <name lang="el">Ρυθμίσης Εκκίνησης</name>
+    </display-name>
+    
+    <description>
+        <src lang="en" xlink:href="description-en.txt"/>
+        <src lang="el" xlink:href="description-el.txt"/>
+    </description>
+    
+    <publisher>
+        <name lang="en">DSE Western Thessaloniki</name>
+        <name lang="el">ΔΔΕ Δυτικής Θεσσαλονίκης</name>
+    </publisher>
+    
+    <dependencies>
+        <l:LibreOffice-minimal-version value="7.0" d:name="LibreOffice.org 7.0" />
+    </dependencies> 
+
+</description>
