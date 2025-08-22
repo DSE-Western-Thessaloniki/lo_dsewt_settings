@@ -25,7 +25,7 @@ jobs:
             description-en.txt \
             description-el.txt \
             META-INF \
-            registry
+            registry \
             || true
 
       - name: Upload OXT to release
